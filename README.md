@@ -19,7 +19,6 @@ Me chamo Camilla Moreira, tenho 18 anos e sou do DF Brasília. Atualmente, estou
             src="https://custom-icon-badges.demolab.com/github/stars/CamillaCEUB?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-✉️ [Email — Camilla](mailto:camillapirespinheiro@gmail.com)
 </p>
 
 ---
