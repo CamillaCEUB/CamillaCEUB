@@ -31,6 +31,6 @@ Me chamo Camilla Moreira, tenho 18 anos e sou do DF Brasília. Atualmente, estou
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=CamillaCEUB&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=CamillaCEUB&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
 </p>
