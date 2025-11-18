@@ -2,7 +2,7 @@
 
 **`Estudante de ADS`**
 
-Me chamo Camilla Moreira, tenho 18 anos e sou do DF Brasília. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no UNICEUB, previsão para me formar em 2027. Tenho interesse em complementar minha formação com disciplinas extras e especializações em novas áreas da tecnologia, ampliando minha visão e habilidades.
+Me chamo Camilla Moreira, tenho 18 anos e sou do DF Brasília. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no UNICEUB. Tenho interesse em complementar minha formação com disciplinas extras e especializações em novas áreas da tecnologia, ampliando minha visão e habilidades.
 
 <p align="left">
     <a href="https://github.com/CamillaCEUB?tab=followers">
